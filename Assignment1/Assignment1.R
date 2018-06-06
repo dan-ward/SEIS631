@@ -1,3 +1,7 @@
+#SEIS 631
+#Dan Ward
+#Assignment 1
+
 #set working directory
 setwd("/Users/Home/Documents/St Thomas/SEIS631/Git/Assignment1")
 

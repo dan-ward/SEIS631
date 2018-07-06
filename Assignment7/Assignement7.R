@@ -10,3 +10,8 @@ head(atheism)
 #create a dataframe with just the respondents from the United States
 us12 <- subset(atheism, nationality == "United States" & year == "2012")
 
+#create a dataframe with just the respondents from the United States that are atheists
+usatheist <- subset(us12, response=="atheist")
+
+50/1002
+
